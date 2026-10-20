@@ -28,6 +28,7 @@ import org.springframework.aot.test.generate.TestGenerationContext
 import org.springframework.beans.factory.config.BeanDefinition
 import org.springframework.beans.factory.support.BeanDefinitionBuilder
 import org.springframework.beans.factory.support.DefaultListableBeanFactory
+import org.springframework.beans.factory.support.InstanceSupplier
 import org.springframework.beans.factory.support.RegisteredBean
 import org.springframework.beans.factory.support.RootBeanDefinition
 import org.springframework.beans.testfixture.beans.KotlinConfiguration
